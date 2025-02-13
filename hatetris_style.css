@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.gaiyou{
+    margin-left: 20px;
+}
+
+.dai{
+    margin-bottom:0px;
+}
+
+.list{
+    margin-top:5px;
+}
+
+.senten{
+    margin-top:5px;
+    text-indent: 1em; 
+}

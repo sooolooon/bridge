@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+h1 {
+    margin-left: 20px;    
+}
+
+header{
+    margin-top:-22px;
+    background-color:rgb(230,230,250);
+    height: 130px;
+
+}
+
+a{
+    text-decoration:none; 
+}
+
+.ore{
+    padding-top:20px;
+}
+
+.home{
+    padding:15px;
+    /* border:2px solid rgb(186,85,211);  */
+    margin:0px;
+}
+.gallery{
+    padding:15px;
+    /* border:2px solid rgb(186,85,211); */
+    margin:0px;
+}
+.blog{
+    padding:15px;
+    /* border:2px solid rgb(186,85,211); */
+    margin:0px;
+}
+.SNS{
+    padding:15px;
+    /* border:2px solid rgb(186,85,211); */
+    margin:0px;
+}
+.hatetris{
+    padding:15px;
+    /* border:2px solid rgb(186,85,211); */
+    margin:0px;
+}
