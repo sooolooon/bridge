@@ -11,6 +11,10 @@ header{
 
 }
 
+
+
+
+
 a{
     text-decoration:none; 
 }
@@ -52,7 +56,17 @@ ul.header{
     padding-inline-start: 10px;
 }
 
-.temp{
+.temp1{
     margin-left:20px;
     /* position:relative;left:10px */
 }
+.temp2{
+    margin-left:10px;
+    margin-bottom: 0px;
+    /* position:relative;left:10px */
+}
+.temp3{
+    margin-top:5px;
+}
+
+
