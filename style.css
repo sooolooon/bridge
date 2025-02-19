@@ -17,6 +17,7 @@ a{
 
 .ore{
     padding-top:20px;
+    margin-bottom: 5px;
 }
 
 .home{
@@ -43,4 +44,13 @@ a{
     padding:15px;
     /* border:2px solid rgb(186,85,211); */
     margin:0px;
+}
+
+.head{
+    display: inline-block;
+}
+
+ul.header{
+    margin-top: 0px;
+    padding-inline-start: 10px;
 }
