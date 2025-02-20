@@ -51,6 +51,10 @@ a{
     display: inline-block;
 }
 
+.head:hover{
+    background-color: #ffc9d7;
+}
+
 ul.header{
     margin-top: 0px;
     padding-inline-start: 10px;
@@ -68,5 +72,14 @@ ul.header{
 .temp3{
     margin-top:5px;
 }
+/* 
+.header .study_down{
+    display: none;
+}
+
+.header .study:hover .study_down{
+    color:black;
+    display: block;
+} */
 
 
