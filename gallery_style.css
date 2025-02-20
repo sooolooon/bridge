@@ -3,3 +3,8 @@
 .gallery{
     border-bottom: solid 2px rgb(147,112,219) ;
 }
+
+img{
+    max-width:200px;
+    height:auto;
+}
