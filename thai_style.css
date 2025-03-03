@@ -9,11 +9,6 @@ img{
     height:auto;
 }
 
-.seni:hover{
-    opacity: 0.6;
-    filter: brightness(110%);
-}
-
 .image{
     margin-bottom:10px;
 }
