@@ -3,3 +3,8 @@
 .study{
     border-bottom: solid 2px rgb(147,112,219) ;
 }
+
+.image_qr{
+    max-width:200px;
+    height:auto;
+}
