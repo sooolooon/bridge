@@ -85,6 +85,11 @@ ul.header{
  */
 
 h4{
+    margin-top:10px;
     margin-bottom: 5px;
+}
+
+h2{
+    margin-bottom:5px
 }
 
