@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.column{
+    border-bottom: solid 2px rgb(147,112,219) ;
+}
+
+.column_image{
+    max-width: 200px;
+    max-height:100px;
+}
+
+.article{
+    display: flex;
+    margin:30px;
+    /* margin-left: clac(50% - 50vw); */
+}
+
+.topic{
+    max-width: 200px;
+}
