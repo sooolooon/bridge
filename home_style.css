@@ -3,3 +3,9 @@
 .home{
     border-bottom: solid 2px rgb(147,112,219) ;
 }
+
+.news{
+    overflow-y:scroll;
+    height:300px;
+    width:500px;
+}
