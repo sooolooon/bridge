@@ -3,3 +3,11 @@
 .schedule{
     line-height: 30px;
 }
+
+header{
+    position: sticky;
+    top: 0px;/*一番上に設置*/
+    left: 0px;
+    z-index: 9999;  /*どの要素よりも上にくるように*/
+    width: 100%; /*横幅を100%に*/
+}
