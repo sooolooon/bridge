@@ -5,9 +5,15 @@
 }
 
 header{
-    position: sticky;
+    position: fixed;
     top: 0px;/*一番上に設置*/
     left: 0px;
     z-index: 9999;  /*どの要素よりも上にくるように*/
     width: 100%; /*横幅を100%に*/
+    height: 160px;
+}
+
+.heiho-{
+    height: 130px;
+    margin-bottom: 0px;
 }
